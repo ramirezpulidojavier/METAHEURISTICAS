@@ -1,0 +1,4 @@
+Archivo .cbp que contiene el proyecto desarrollado para la IDE CodeBlocks 20.03
+Será necesario ser ejecutado como se especifica en la memoria con los argumentos necesarios:
+	- Nombre del archivo de datos
+	- Semilla
